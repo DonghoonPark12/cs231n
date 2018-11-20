@@ -1,0 +1,12 @@
+*.swp
+*.pyc
+.env/*
+.DS_Store
+.ipynb_checkpoints/
+README.md
+requirements.txt
+setup_googlecloud.sh
+start_ipython_osx.sh
+knn_image.png
+frameworkpython
+collectSubmission.sh
